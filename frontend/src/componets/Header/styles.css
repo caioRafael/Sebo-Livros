@@ -1,0 +1,42 @@
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px;
+
+    background: var(--color-dark-green);
+}
+
+header img{
+    width: 117px;
+    height: 59px;
+}
+
+header input{
+    display: flex;
+    align-items: center;
+    
+    height: 50px;
+    width: 500px;
+    padding: 15px;
+
+    border-radius: 10px;
+    border: none;
+}
+
+header .options{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 200px;
+    margin: 0 30px;
+}
+
+header .options a{
+    color: var(--color-white);
+    text-decoration: none;
+
+}

@@ -1,0 +1,10 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 30px;
+    background: var(--color-ligth-green);
+
+    font: 700 14px Roboto;
+}

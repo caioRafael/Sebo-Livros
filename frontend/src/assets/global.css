@@ -1,0 +1,28 @@
+:root{
+    --color-dark-green: #2F4F4F;
+    --color-ligth-green: #65B0B0;
+    --color-grey: #F0F0F0;
+    --color-white: #ffffff;
+    --color-opacity-button: #528C8C;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100vh;
+}
+
+body{
+    background: var(--color-grey);
+}
+
+body, input, button, textarea{
+    font: 300 18px Roboto;
+}
