@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber API" src="./github/logo.svg" />
+    <img alt="./github/logo.svg" src="logo" />
     <br>
     Mundo dos Livros
 </h1>
