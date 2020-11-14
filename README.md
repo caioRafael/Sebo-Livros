@@ -1,5 +1,4 @@
-<h1 align="center">
-    <img alt="/.github/logo.svg" src="logo" />
-    <br>
-    Mundo dos Livros
-</h1>
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="/.github/logo.svg" alt="Project logo"></a>
+</p>
