@@ -7,5 +7,8 @@
 <p align="centet">
 </p>
 
-<div aling="center">
- <div/>
+<h3 align="center">
+Mundo dos Livros 1.0 | website for buying and selling books
+</h3>
+
+## 🧐 About 
